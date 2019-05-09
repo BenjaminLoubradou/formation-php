@@ -1,0 +1,15 @@
+Présentation de l'entreprise / contexte
+1 -- Cahier des charges
+Mettre en avant les besoins et détailler l'ensemble des fonctionnalités et des droits.
+
+Mise en oeuvre
+-> Wireframing / Maquette
+-> Design (photoshop)
+-> Intégration HTML /CSS
+
+=> Choix techniques
+-> Détail de toutes les technos
+
+=> La conception Base de données
+=> Difficultés rencontrées
+=> Conclusion => Votre futur, comment vous envisagez la suite ? un employeur en vue ?
